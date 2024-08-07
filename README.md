@@ -1,1 +1,3 @@
 # Zombie-Farm
+
+This is a Commandline game i developed as apart of my univeristy Software Engineering course. The game uses many Object-Oriented principles to run. The base game uses plants and a monetary system to purchase and sell crop. over a number of turns, the crop will grow and be harvested and sold giving the user ingame money to buy more crop. I implemented the zombie aspect allowing the user to buy weapons to protect their crop from zombie attacks. The immature crop will be attacked by crawlers and the grown crop will be attacked by super zombies. The soil will then be tainted by zombie toxins after the zombie has been killed. 
